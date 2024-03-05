@@ -3,6 +3,7 @@
     "subdomain" : "tester",
     "user": "jake0001-dev",
     "record-type": "A",
+    "target": "179.61.226.0/24"
     "email": "test@jake0001.com"
   }
 ]

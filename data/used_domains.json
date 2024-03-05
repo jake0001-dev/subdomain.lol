@@ -1,0 +1,8 @@
+[
+  {
+    "subdomain" : "tester",
+    "user": "jake0001-dev",
+    "record-type": "A",
+    "email": "test@jake0001.com"
+  }
+]
